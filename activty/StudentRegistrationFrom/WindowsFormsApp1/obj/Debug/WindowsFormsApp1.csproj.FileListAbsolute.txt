@@ -1,0 +1,20 @@
+C:\Users\BT\Desktop\ectivtes\StudentRegistionFrom\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\BT\Desktop\ectivtes\StudentRegistionFrom\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\BT\Desktop\ectivtes\StudentRegistionFrom\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\BT\Desktop\ectivtes\StudentRegistionFrom\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\BT\Desktop\ectivtes\StudentRegistionFrom\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmRegistration.resources
+C:\Users\BT\Desktop\ectivtes\StudentRegistionFrom\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\BT\Desktop\ectivtes\StudentRegistionFrom\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\BT\Desktop\ectivtes\StudentRegistionFrom\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\BT\Desktop\ectivtes\StudentRegistionFrom\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\BT\Desktop\ectivtes\StudentRegistionFrom\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\BT\Desktop\ectivtes\StudentRegistionFrom\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+E:\برمجة مرئية\StudentRegistionFrom\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\برمجة مرئية\StudentRegistionFrom\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\برمجة مرئية\StudentRegistionFrom\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\برمجة مرئية\StudentRegistionFrom\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\برمجة مرئية\StudentRegistionFrom\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmRegistration.resources
+E:\برمجة مرئية\StudentRegistionFrom\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\برمجة مرئية\StudentRegistionFrom\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\برمجة مرئية\StudentRegistionFrom\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\برمجة مرئية\StudentRegistionFrom\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
